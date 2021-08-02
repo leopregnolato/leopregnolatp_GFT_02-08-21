@@ -1,0 +1,16 @@
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/bin/Debug/net5.0/questaoTres
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/bin/Debug/net5.0/questaoTres.deps.json
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/bin/Debug/net5.0/questaoTres.runtimeconfig.json
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/bin/Debug/net5.0/questaoTres.runtimeconfig.dev.json
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/bin/Debug/net5.0/questaoTres.dll
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/bin/Debug/net5.0/ref/questaoTres.dll
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/bin/Debug/net5.0/questaoTres.pdb
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/obj/Debug/net5.0/questaoTres.csproj.AssemblyReference.cache
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/obj/Debug/net5.0/questaoTres.GeneratedMSBuildEditorConfig.editorconfig
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/obj/Debug/net5.0/questaoTres.AssemblyInfoInputs.cache
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/obj/Debug/net5.0/questaoTres.AssemblyInfo.cs
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/obj/Debug/net5.0/questaoTres.csproj.CoreCompileInputs.cache
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/obj/Debug/net5.0/questaoTres.dll
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/obj/Debug/net5.0/ref/questaoTres.dll
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/obj/Debug/net5.0/questaoTres.pdb
+/home/leopregnolato/Workspace/GFT_Starter/questaoTres/obj/Debug/net5.0/questaoTres.genruntimeconfig.cache
