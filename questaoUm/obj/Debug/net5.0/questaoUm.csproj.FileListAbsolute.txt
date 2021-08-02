@@ -1,0 +1,16 @@
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/obj/Debug/net5.0/questaoUm.csproj.AssemblyReference.cache
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/obj/Debug/net5.0/questaoUm.GeneratedMSBuildEditorConfig.editorconfig
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/obj/Debug/net5.0/questaoUm.AssemblyInfoInputs.cache
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/obj/Debug/net5.0/questaoUm.AssemblyInfo.cs
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/obj/Debug/net5.0/questaoUm.csproj.CoreCompileInputs.cache
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/bin/Debug/net5.0/questaoUm
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/bin/Debug/net5.0/questaoUm.deps.json
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/bin/Debug/net5.0/questaoUm.runtimeconfig.json
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/bin/Debug/net5.0/questaoUm.runtimeconfig.dev.json
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/bin/Debug/net5.0/questaoUm.dll
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/bin/Debug/net5.0/ref/questaoUm.dll
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/bin/Debug/net5.0/questaoUm.pdb
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/obj/Debug/net5.0/questaoUm.dll
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/obj/Debug/net5.0/ref/questaoUm.dll
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/obj/Debug/net5.0/questaoUm.pdb
+/home/leopregnolato/Workspace/GFT_Starter/questaoUm/obj/Debug/net5.0/questaoUm.genruntimeconfig.cache
